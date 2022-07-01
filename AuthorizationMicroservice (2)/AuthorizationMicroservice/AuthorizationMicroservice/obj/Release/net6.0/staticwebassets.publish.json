@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WgHs4OecoV/2mJObzWpAAIUgRe3OY48d9Zxs2lNOmoc=",
+  "Source": "AuthorizationMicroservice",
+  "BasePath": "_content/AuthorizationMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

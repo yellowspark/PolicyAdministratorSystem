@@ -1,0 +1,66 @@
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.csproj.AssemblyReference.cache
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.AssemblyInfoInputs.cache
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.AssemblyInfo.cs
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.csproj.CoreCompileInputs.cache
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/appsettings.Development.json
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/appsettings.json
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice.exe
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice.deps.json
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice.runtimeconfig.json
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice.pdb
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Microsoft.OpenApi.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/staticwebassets.build.json
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/staticwebassets.development.json
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/scopedcss/bundle/QuotesMicroservice.styles.css
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.csproj.CopyComplete
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/refint/QuotesMicroservice.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.pdb
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.genruntimeconfig.cache
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/ref/QuotesMicroservice.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/System.Web.Cors.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/System.Web.Http.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/System.Web.Http.Cors.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Newtonsoft.Json.dll
+F:/CTS INTERN/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/appsettings.Development.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/appsettings.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice.deps.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice.runtimeconfig.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/QuotesMicroservice.pdb
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/System.Web.Cors.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/System.Web.Http.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/System.Web.Http.Cors.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.csproj.AssemblyReference.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.AssemblyInfoInputs.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.AssemblyInfo.cs
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.csproj.CoreCompileInputs.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.MvcApplicationPartsAssemblyInfo.cs
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.MvcApplicationPartsAssemblyInfo.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/staticwebassets.build.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/staticwebassets.development.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/scopedcss/bundle/QuotesMicroservice.styles.css
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.csproj.CopyComplete
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/refint/QuotesMicroservice.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.pdb
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/QuotesMicroservice.genruntimeconfig.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/QuotesMicroservice/QuotesMicroservice/obj/Debug/net6.0/ref/QuotesMicroservice.dll

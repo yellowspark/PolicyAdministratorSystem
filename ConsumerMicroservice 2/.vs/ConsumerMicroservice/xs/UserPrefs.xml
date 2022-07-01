@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{DEEB4421-1060-4CFA-8308-0A7DCA29C866}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsumerMicroservice/Controllers/ConsumerController.cs">
+    <Files>
+      <File FileName="ConsumerMicroservice/Controllers/ConsumerController.cs" Line="35" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConsumerMicroservice" expanded="True">
+            <Node name="ConsumerMicroservice" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ConsumerController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ConsumerMicroservice PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

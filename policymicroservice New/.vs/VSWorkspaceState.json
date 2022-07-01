@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\policymicroservice",
+    "\\policymicroservice\\policymicroservice",
+    "\\policymicroservice\\policymicroservice\\Controllers",
+    "\\policymicroservice\\policymicroservice\\Models",
+    "\\policymicroservice\\policymicroservice\\Properties",
+    "\\policymicroservice\\policymicroservice\\repository"
+  ],
+  "SelectedNode": "\\policymicroservice\\policymicroservice\\Controllers\\PolicyController.cs",
+  "PreviewInSolutionExplorer": false
+}

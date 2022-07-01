@@ -1,0 +1,117 @@
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/appsettings.Development.json
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/appsettings.json
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.exe
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.deps.json
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.runtimeconfig.json
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.pdb
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.OpenApi.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.csproj.AssemblyReference.cache
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.AssemblyInfoInputs.cache
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.AssemblyInfo.cs
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/staticwebassets.build.json
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/staticwebassets.development.json
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/scopedcss/bundle/AuthorizationMicroservice.styles.css
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.csproj.CopyComplete
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/refint/AuthorizationMicroservice.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.pdb
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.genruntimeconfig.cache
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/ref/AuthorizationMicroservice.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+F:/CTS INTERN/MFPE/Mail Order Pharmacy/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/appsettings.json
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.exe
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.deps.json
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.runtimeconfig.json
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.pdb
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.csproj.AssemblyReference.cache
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.AssemblyInfo.cs
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/scopedcss/bundle/AuthorizationMicroservice.styles.css
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.csproj.CopyComplete
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/refint/AuthorizationMicroservice.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.pdb
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.genruntimeconfig.cache
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/ref/AuthorizationMicroservice.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.Web.Cors.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.Web.Http.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.Web.Http.Cors.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/Harish/Desktop/CTS NUnit/MFPE/New Part/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/appsettings.Development.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/appsettings.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.deps.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.runtimeconfig.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/AuthorizationMicroservice.pdb
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.Web.Cors.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.Net.Http.Formatting.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.Web.Http.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.Web.Http.Cors.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Newtonsoft.Json.Bson.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.csproj.AssemblyReference.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.AssemblyInfoInputs.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.AssemblyInfo.cs
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/staticwebassets.build.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/staticwebassets.development.json
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/scopedcss/bundle/AuthorizationMicroservice.styles.css
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.csproj.CopyComplete
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/refint/AuthorizationMicroservice.dll
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.pdb
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/AuthorizationMicroservice.genruntimeconfig.cache
+/Users/saurishphatak/Desktop/Coding/Cognizant_Training/MFPE/AuthorizationMicroservice (2)/AuthorizationMicroservice/AuthorizationMicroservice/obj/Debug/net6.0/ref/AuthorizationMicroservice.dll

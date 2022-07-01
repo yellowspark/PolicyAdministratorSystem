@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bFCA+lXBsakt0uord1+oaQH16ZPTw9IGlrtNGXK2WSg=",
+  "Source": "AuthorizationMicroservice",
+  "BasePath": "_content/AuthorizationMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

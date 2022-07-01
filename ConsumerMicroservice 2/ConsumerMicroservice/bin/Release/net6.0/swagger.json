@@ -1,0 +1,382 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "ConsumerMicroservice, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Consumer/ViewConsumerBusiness": {
+      "get": {
+        "tags": [
+          "Consumer"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Consumer/CreateConsumerBusiness": {
+      "post": {
+        "tags": [
+          "Consumer"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "ID",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "query",
+            "name": "Name",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "DOB",
+            "type": "string",
+            "format": "date"
+          },
+          {
+            "in": "query",
+            "name": "Email",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "PAN",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "Business.ID",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "query",
+            "name": "Business.BusinessType",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "Business.CapitalInvested",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "Business.AnnualTurnover",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "Business.TotalEmployees",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Consumer/UpdateConsumerBusiness": {
+      "put": {
+        "tags": [
+          "Consumer"
+        ],
+        "consumes": [
+          "multipart/form-data"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "ID",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "formData",
+            "name": "ID",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "formData",
+            "name": "Name",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "DOB",
+            "type": "string",
+            "format": "date"
+          },
+          {
+            "in": "formData",
+            "name": "Email",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "PAN",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "Business.ID",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "formData",
+            "name": "Business.BusinessType",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "Business.CapitalInvested",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "formData",
+            "name": "Business.AnnualTurnover",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "formData",
+            "name": "Business.TotalEmployees",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Property/ViewConsumerBusiness": {
+      "get": {
+        "tags": [
+          "Property"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Property/CreateBusinessProperty": {
+      "post": {
+        "tags": [
+          "Property"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "ID",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "query",
+            "name": "SquareFeet",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "BuildingType",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "Storeys",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "query",
+            "name": "Age",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "query",
+            "name": "ConsumerID",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "query",
+            "name": "CostOfAssert",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "SalvageValue",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "UsefulLifeOfAssert",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "query",
+            "name": "PropertyType",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Property/UpdateBusinessProperty": {
+      "put": {
+        "tags": [
+          "Property"
+        ],
+        "consumes": [
+          "multipart/form-data"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "Id",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "formData",
+            "name": "ID",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "formData",
+            "name": "SquareFeet",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "formData",
+            "name": "BuildingType",
+            "type": "string"
+          },
+          {
+            "in": "formData",
+            "name": "Storeys",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "formData",
+            "name": "Age",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "formData",
+            "name": "ConsumerID",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "formData",
+            "name": "CostOfAssert",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "formData",
+            "name": "SalvageValue",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "formData",
+            "name": "UsefulLifeOfAssert",
+            "type": "integer",
+            "format": "int32"
+          },
+          {
+            "in": "formData",
+            "name": "PropertyType",
+            "type": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "operationId": "GetWeatherForecast",
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/WeatherForecast"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "WeatherForecast": {
+      "type": "object",
+      "properties": {
+        "date": {
+          "format": "date-time",
+          "type": "string"
+        },
+        "temperatureC": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "temperatureF": {
+          "format": "int32",
+          "type": "integer",
+          "readOnly": true
+        },
+        "summary": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hPJunxEf1Xe/I9ioyiP//CR7Ga99xvgwt6ucsj6pEtM=",
+  "Source": "ConsumerMicroservice",
+  "BasePath": "_content/ConsumerMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
